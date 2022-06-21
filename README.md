@@ -1,4 +1,4 @@
-<h2 align="center">hi! 👍 I am HenriqueLR !</h2>
+<h2 align="center">hi 👍 I am HenriqueLR !</h2>
 
 ### ⚡ soft skills
 
