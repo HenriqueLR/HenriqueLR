@@ -1,5 +1,3 @@
-<h2 align="center">hi 👍 I am HenriqueLR !</h2>
-
 ### ⚡ soft skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
